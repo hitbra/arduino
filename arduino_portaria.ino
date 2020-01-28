@@ -1,6 +1,4 @@
 // Programa : RFID - Controle de acesso / cancela
-// Autor : Arduino e Cia
-
 #include <SPI.h>
 #include <MFRC522.h>
 
