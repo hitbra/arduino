@@ -1,4 +1,3 @@
-//Autor: FILIPEFLOP
  
 int valor_analogico;
  
