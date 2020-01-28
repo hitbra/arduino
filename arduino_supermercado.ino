@@ -1,7 +1,6 @@
 #include <MFRC522.h>
 
 // Programa : RFID - Supermercado
-// Autor : Henrique Poyatos
 
 #include <SPI.h>
 #include <MFRC522.h>
@@ -31,8 +30,8 @@ String produtos[7] = {
 String produtos_nome[7] = {
   "",
   "Suco de laranja e maca",
-  "Biscoito Belvita",
-  "Cha de hibisco",
+  "Biscoito Bosco",
+  "Cha Matte",
   "Molho shoyu",
   "Condicionador Dove",
   "Caixa de fósforos Fiat Lux"
